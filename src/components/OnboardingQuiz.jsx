@@ -49,6 +49,10 @@ export default function OnboardingQuiz({ onComplete }) {
                 <option>Mathematics</option>
                 <option>Programming</option>
                 <option>Science</option>
+                <option>English</option>
+                <option>Aptitude</option>
+                <option>Economics</option>
+                <option>History</option>
               </select>
             </div>
           </div>
@@ -111,4 +115,3 @@ export default function OnboardingQuiz({ onComplete }) {
     </section>
   );
 }
-
