@@ -18,64 +18,63 @@ How can AI or adaptive learning techniques create personalized education experie
 
 📁 Project Architecture 
 ├── public/
-|
+
 │   └── vite.svg
-|
+
 ├── src/
-|
+
 │   ├── assets/
-|
+
 │   │   └── react.svg
-|
+
 │   │
-|
+
 │   ├── components/
-|
+
 │   │   ├── ChatAssistant.jsx
-|
+
 │   │   ├── Dashboard.jsx
-|
+
 │   │   ├── Hero.jsx
-|
+
 │   │   ├── LearningPath.jsx
 |
 │   │   ├── Navbar.jsx
-|	|	|
+
 │   │   ├── OnboardingQuiz.jsx
-|	|	|
+
 │   │   ├── ProgressTracker.jsx
-|	|
+
 │   │   └── RecommendationList.jsx
-|	|
-│   │
+
 │   ├── data/
-|	|	|
+
 │   │   └── courses.js
-|	|
+
 │   │
-|	|
+
 │   ├── App.css
-|	|
+
 │   ├── App.jsx
-|	|
+
 │   ├── index.css
-|	|
+
 │   ├── main.jsx
-|
+
 │
-|
+
 ├── .gitignore
-|
+
 ├── README.md
-|
+
 ├── eslint.config.js
-|
+
 ├── index.html
-|
+
 ├── package-lock.json
-|
+
 ├── package.json
-|
+
 └── vite.config.js
 
 Architecture Explanation
