@@ -17,6 +17,7 @@ How can AI or adaptive learning techniques create personalized education experie
 ⸻
 
 📁 Project Architecture 
+
 ├── public/
 
 │   └── vite.svg
