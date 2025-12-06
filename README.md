@@ -135,6 +135,10 @@ Running the Project
 2. ⁠Run the development server-npm run dev
 3. ⁠Build for production-npm run build
 
+🚀Deployment Of The Website(using vercel)
+Link: https://ai-student-helper-blush.vercel.app/
+
 Team Members
+
 	•	Shivangi Kakkar
 	•	Ayush Shivam
